@@ -1,5 +1,8 @@
 # bamazon
-A mock e-commerce site with a SQL database
+A mock e-commerce site with a SQL database.
 
-<video src="BamazonDemo.mp4" poster="BamazonDemoPoster.jpg" width="960" height="540" controls preload>
-</video>
+This app uses a CLI to browse a SQL database for products, then allows the user to select a product to make an order.
+
+If enough product exists to fulfill the order, it is performed. Otherwise, it is not an a message stating such is printed. Either way, the program then ends. If an order was performed, the app updates that product quantity in the SQL database.
+
+A short demonstration can be found [here.](https://www.youtube.com/watch?v=EdCRD9ZYrkI)
