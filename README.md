@@ -5,6 +5,4 @@ This app uses a CLI to browse a SQL database for products, then allows the user 
 
 If enough product exists to fulfill the order, it is performed. Otherwise, it is not an a message stating such is printed. Either way, the program then ends. If an order was performed, the app updates that product quantity in the SQL database.
 
-A short demonstration can be found <a href="https://www.youtube.com/watch?v=EdCRD9ZYrkI" target="new">here</a>.
-
-**[here](https://www.youtube.com/watch?v=EdCRD9ZYrkI "Bamazon Demo")**.
+A short demonstration can be found **[here](https://www.youtube.com/watch?v=EdCRD9ZYrkI "Bamazon Demo")**.
